@@ -6,7 +6,7 @@ Foi reportado  durante o curso :
 
 -O que e   teste de software 
 - Tipo de teste e suas fases
-- NNíveis te teste
+- Nivel de teste
 - Erros , bugs
 - Como reportar e acompanhar bugs.
 
